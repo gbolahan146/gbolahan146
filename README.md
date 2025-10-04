@@ -1,18 +1,26 @@
-Hi there! I'm Gbolahan Oduyemi👋
+Hi there 👋
+I’m Gbolahan Oduyemi, a software engineer with a passion for creating high-impact digital products that bridge technology, scalability, and design. My experience spans telecom, fintech, and open-source innovation, contributing to projects that power connectivity and financial inclusion across multiple regions.
 
+💡 What drives me:
+I’m motivated by the challenge of turning ideas into elegant, efficient, and accessible software solutions that deliver measurable value to users worldwide.
 
+🧰 Tech Stack:
+	•	Languages: Dart, Java, JavaScript, HTML, CSS
+	•	Frameworks & Tools: Flutter, Spring Boot, Hibernate, MySQL, Firebase
+	•	Focus Areas: Cross-platform app development, scalable architecture, clean UI/UX
 
-👯 I’m looking to collaborate on frontend and mobile (flutter) projects...
+🚀 Recent Highlights:
+	•	Contributed to telecom technology initiatives, developing solutions that enhance digital service delivery and network reliability.
+	•	Built and improved fintech platforms supporting secure, seamless transactions and greater financial accessibility.
+	•	Developed FireStormTrashMeOut, a full-stack application using Spring Boot, Hibernate, and MySQL — showcasing backend expertise and system design thinking.
 
-[![GbolahAN's github stats](https://github-readme-stats.vercel.app/api?username=gbolahan146&&show_icons=true&title_color=ffffff&icon_color=7cccbf&text_color=daf7dc&bg_color=3d4554)](https://github.com/anuraghazra/github-readme-stats)
+🤝 Collaboration & Open Source:
+I’m an active open-source contributor, constantly learning, experimenting, and sharing knowledge with the developer community. I believe in global collaboration as a force for innovation.
 
- 🤔 I’m looking for help with the business logic of flutter...
-💬 Ask me about Html,Css ...
+🌱 Currently working on:
+	•	Expanding my open-source footprint.
+	•	Exploring scalable Flutter + backend integrations.
+	•	Building user-centric applications with real-world impact.
 
- 😄 Pronouns: He/Him...
- 
- ⚡ Fun fact: Facts are fun...
-
-
-
-
+📫 Let’s Connect:
+	•	LinkedIn | Portfolio | Email
